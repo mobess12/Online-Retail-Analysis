@@ -1,25 +1,46 @@
-# Project Retail Dataset Analysis
+# Online Retail Analysis
 
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
-
-# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
+**Online Retail Analysis** is a tool designed to inform business decisions through data analysis and visualisation. This tool is built using Python, Pandas, Plotly, Seaborn, Matplotlib, and Tableau. This tool reads from a raw CSV file, processes the data and shows visualisation insights in a jupter notebook and a Tableau dashboard.
 
 ## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size of 100Gb.
+* [Online Retail Dataset](https://www.kaggle.com/datasets/abhishekrp1517/online-retail-transactions-dataset)
 
+The dataset contains transactional data from a UK-based online retail store. It includes information about customers, products, and transactions, with the following key features:
+
+- InvoiceNo: Unique identifier for each transaction
+- StockCode: Unique identifier for each product
+- Description: Text description of the product
+- Quantity: Number of units sold
+- InvoiceDate: Date and time of the transaction
+- UnitPrice: Price per unit of the product
+- CustomerID: Unique identifier for each customer
+- Country: Country of the customer
 
 ## Business Requirements
-* Describe your business requirements
+As this is an online retail analysis project, the business requirements may include:
+1. **Sales Performance Analysis**: Analyse sales trends over time, identify peak sales periods
+2. **Enhancing Customer Retention**: Identify repeat customers, analyse customer purchase behavior such as frequency and value of purchases
+3. **Product Performance**: Identify top-selling products, analyse product categories, and assess inventory turnover rates
+4. **Geographical Insights**: Analyse sales performance by country or region to determine where to focus marketing efforts
+5. **Inventory Management**: Use sales data to inform inventory decisions, such as which products to stock more of and which to discontinue
 
 
 ## Hypothesis and how to validate?
 * List here your project hypothesis(es) and how you envision validating it (them) 
 
 ## Project Plan
-* Outline the high-level steps taken for the analysis.
-* How was the data managed throughout the collection, processing, analysis and interpretation steps?
-* Why did you choose the research methodologies you used?
+1. Data Collection 
+    * Gather the dataset from Kaggle
+2. Data Cleaning and Preprocessing
+    * Handle missing values, remove duplicates, and correct data types
+    * Filter out irrelevant data (e.g., transactions with negative quantities)
+    * Create new features (e.g., TotalPrice = Quantity * UnitPrice)
+3. Save the cleaned data to a new CSV file
+4. Explore Data and visualise
+    * Use descriptive statistics to understand the data
+    * Create visualisations to identify trends and patterns
+5. Dashboard Creation
+    * Use Tableau to create an interactive dashboard that includes key metrics and visualisations
 
 ## The rationale to map the business requirements to the Data Visualisations
 * List your business requirements and a rationale to map them to the Data Visualisations
@@ -49,29 +70,26 @@
 * What challenges did you face, and what strategies were used to overcome these challenges?
 * What new skills or tools do you plan to learn next based on your project experience? 
 
-## Deployment
-### Heroku
-
-* The App live link is: https://YOUR_APP_NAME.herokuapp.com/ 
-* Set the runtime.txt Python version to a [Heroku-20](https://devcenter.heroku.com/articles/python-support#supported-runtimes) stack currently supported version.
-* The project was deployed to Heroku using the following steps.
-
-1. Log in to Heroku and create an App
-2. From the Deploy tab, select GitHub as the deployment method.
-3. Select your repository name and click Search. Once it is found, click Connect.
-4. Select the branch you want to deploy, then click Deploy Branch.
-5. The deployment process should happen smoothly if all deployment files are fully functional. Click now the button Open App on the top of the page to access your App.
-6. If the slug size is too large then add large files not required for the app to the .slugignore file.
-
-
 ## Main Data Analysis Libraries
-* Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Plotly
+* Tableau
 
 
 ## Credits 
 
-* In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-* You can break the credits section up into Content and Media, depending on what you have included in your project. 
+* Kaggle Dataset: [Online Retail Dataset](https://www.kaggle.com/datasets/abhishekrp1517/online-retail-transactions-dataset)
+* Generative AI tools: ChatGPT, GitHub Copilot
+
+### Contributors:
+- Mahabir - Project Manager / Data Architect / Analyst
+- Stephen - Project Manager / Data Architect / Analyst
+- Adrian - Data Architect / Analyst
+- Rana - Data Architect / Analyst
+- Tanzila - Data Architect / Analyst
 
 ### Content 
 
