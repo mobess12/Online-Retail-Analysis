@@ -79,9 +79,11 @@ The business requirements would be met through understanding the data after proc
 * Explain how the dashboard was designed to communicate complex data insights to different audiences. 
 
 ## Unfixed Bugs
-* Please mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
-* Did you recognise gaps in your knowledge, and how did you address them?
-* If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
+* We do not have any unfixed bugs.
+
+Some issues we have encountered:
+* We have had some issues regarding the Git workflow. When pulling from the origin/main to our individual branches we sometimes had to stash any changes and then either drop or pop them. 
+* We would often have to drop our changes and ensure we have a backup so we can make the changes later.
 
 ## Development Roadmap
 * With the teams skillset and expertise, the team did not encounter any major issues. We were all on call for support where needed with a solid project plan in place. A lot of the issues people may have come across in the first project have been rectified and newly learnt, therefore referring back to experience in these situations was the solution.
@@ -95,7 +97,6 @@ The business requirements would be met through understanding the data after proc
 * Plotly
 * Tableau
 
-
 ## Credits 
 
 * Kaggle Dataset: [Online Retail Dataset](https://www.kaggle.com/datasets/abhishekrp1517/online-retail-transactions-dataset)
@@ -105,14 +106,8 @@ The business requirements would be met through understanding the data after proc
 
 
 ### Contributors:
-- Mahabir - Project Manager / Data Architect / Analyst
-- Stephen - Project Manager / Data Architect / Analyst
-- Adrian - Data Architect / Analyst
-- Rana - Data Architect / Analyst
-- Tanzila - Data Architect / Analyst
-
-### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign-Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Mahabir Bhakerd - Project Manager / Data Architect / Analyst
+- Stephen Beese - Project Manager / Data Architect / Analyst
+- Adrian S - Data Architect / Analyst
+- Rana Tahon - Data Architect / Analyst
+- Tanzila Chand - Data Architect / Analyst
