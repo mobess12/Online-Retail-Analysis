@@ -26,34 +26,51 @@ As this is an online retail analysis project, the business requirements may incl
 
 
 ## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+
+* Hypothesis 1 - The most popular products generate higher revenue during a particular season in the year, highlighting the importance of aligning inventory and marketing strategies with seasonal buying behaviour. 
+
+* Hypothesis 2 - The drive for the majority of the revenue comes from the contributions made by the top 10% of customer.
+
+* Hypothesis 3 - Quarter 4 of the year (Oct-Dec) has an increase in sales due to the seasonal holidays
+
+* Hypothesis 4 - customer who purchase more frequently tend to spend more per transaction 
+
+Validation for these hypothses listed above will be demonstrated using various visualiations and commentary within the data visualisations jupyter notebook. This will help the team to understand whether they are true or false. 
 
 ## Project Plan
 1. Data Collection 
     * Gather the dataset from Kaggle
 2. Data Cleaning and Preprocessing
     * Handle missing values, remove duplicates, and correct data types
-    * Filter out irrelevant data (e.g., transactions with negative quantities)
+    * Filter out irrelevant data (e.g., transactions with negative quantities, product descriptions that are not products such as "damages and ?")
     * Create new features (e.g., TotalPrice = Quantity * UnitPrice)
 3. Save the cleaned data to a new CSV file
 4. Explore Data and visualise
     * Use descriptive statistics to understand the data
-    * Create visualisations to identify trends and patterns
+    * Create visualisations to identify trends and patterns for key insights of the data in line with hypotheses
 5. Dashboard Creation
-    * Use Tableau to create an interactive dashboard that includes key metrics and visualisations
+    * Use a wireframe and Tableau to plan and create an interactive dashboard that includes key metrics and visualisations in line with the hypotheses
+6. Presentation
+    * Create a presentation with our key insights and conclusions in line with the hypotheses.
 
 ## The rationale to map the business requirements to the Data Visualisations
-* List your business requirements and a rationale to map them to the Data Visualisations
+
+- Enhance customer retention/engagement
+- Optimise product offerings (inventory management)
+- Strategic sales growth
+
+The business requirements would be met through understanding the data after processing and visualisations. This gave the team an idea on solutions for the business requirements to be met
+
+ It is common in the retail industry to look at sales, seasonality, cusomters and their characteristics in spending and the products being bought.
 
 ## Analysis techniques used
-* List the data analysis methods used and explain limitations or alternative approaches.
-* How did you structure the data analysis techniques. Justify your response.
-* Did the data limit you, and did you use an alternative approach to meet these challenges?
-* How did you use generative AI tools to help with ideation, design thinking and code optimisation?
+- Researching and using the standard key metrics for an online retail industry, this helped reach my objectives and gain a better understanding on the dataset.
+- We structured the analysis around what a common retail industry would want to look at and gathered some idea's surrounding the generalised view of the industry. This gave our team a base on structure to go by, sales, products, customers etc.
+- Generative AI alongside the teams knowledge and expertise helped with some bits of code where its suggesting lines of code or speeding up code writing with assumptions that we deemed correct to use.
+- Online resources such as youtube and google was used for code understanding and helped with code building
 
 ## Ethical considerations
-* Were there any data privacy, bias or fairness issues with the data?
-* How did you overcome any legal or societal issues?
+* The dataset came from Kaggle and presumably would not have any legal or societal issues. There was no personal data within the dataset which could expose or identify any thing perosnal to a particular individual.
 
 ## Dashboard Design
 * List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
@@ -67,8 +84,8 @@ As this is an online retail analysis project, the business requirements may incl
 * If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
 
 ## Development Roadmap
-* What challenges did you face, and what strategies were used to overcome these challenges?
-* What new skills or tools do you plan to learn next based on your project experience? 
+* With the teams skillset and expertise, the team did not encounter any major issues. We were all on call for support where needed with a solid project plan in place. A lot of the issues people may have come across in the first project have been rectified and newly learnt, therefore referring back to experience in these situations was the solution.
+* New skills or tools the team plan to learn is understanding VSCode more, dashboard tool and python. This would aid in more hands on experience to build more understanding and confidence in completing projects.
 
 ## Main Data Analysis Libraries
 * Pandas
@@ -83,6 +100,9 @@ As this is an online retail analysis project, the business requirements may incl
 
 * Kaggle Dataset: [Online Retail Dataset](https://www.kaggle.com/datasets/abhishekrp1517/online-retail-transactions-dataset)
 * Generative AI tools: ChatGPT, GitHub Copilot
+* YouTube
+* Team members
+
 
 ### Contributors:
 - Mahabir - Project Manager / Data Architect / Analyst
@@ -96,13 +116,3 @@ As this is an online retail analysis project, the business requirements may incl
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement form validation on the Sign-Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
-### Media
-
-- The photos used on the home and sign-up page are from This Open-Source site
-- The images used for the gallery page were taken from this other open-source site
-
-
-
-## Acknowledgements (optional)
-* Thank the people who provided support through this project.
