@@ -79,6 +79,8 @@ The business requirements would be met through understanding the data after proc
 * Explain how the dashboard was designed to communicate complex data insights to different audiences. 
 
 ## Wireframe
+* The dashboard wireframe was created in Figma to outline the layout for our Online Retail Analysis project dashboard. It includes key components, such as summary cards and charts. This wireframe will serve as a guide while designing the interactive dashboard in Tableau. Preview of the wireframe layout can be found in the image folder. [Wireframe](Images/Wireframe.png)
+
 
 ## Tableau Dashboard
 
