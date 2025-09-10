@@ -76,12 +76,11 @@ The business requirements would be met through understanding the data after proc
 *  *The dashboard was designed to be visually appealing, with a consistent colour scheme and layout that enhances the user experience. WE kept the design simple and clean, avoiding clutter and unnecessary elements that could distract from the data insights.,
 * Main board represents the summary of the data for example, total sales, total number of customers, total number of orders.
 * The visualisation charts were chosen to effectively communicate the insights,
-    * Monthly sales trends of online retails
+    * Monthly Trend Analysis 
     * Top 10 Products: Quantity Sold vs Revenue
     * Total sales from each country is represented on a map
-    * Qarterly Revenue.
+    * Quarterly Revenue.
 * All charts have clear titles, labels, and legends to ensure that users can easily understand the information being presented. The interactive elements, such as filters and tooltips, allow users to explore the data in more detail and gain deeper insights.
-    
 
 ## Wireframe
 * The dashboard wireframe was created in Figma to outline the layout for our Online Retail Analysis project dashboard. It includes key components, such as summary cards and charts. This wireframe will serve as a guide while designing the interactive dashboard in Tableau. Preview of the wireframe layout can be found in the image folder. [Wireframe](Images/Wireframe.png)
