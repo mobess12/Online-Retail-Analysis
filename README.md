@@ -78,6 +78,10 @@ The business requirements would be met through understanding the data after proc
 * How were data insights communicated to technical and non-technical audiences?
 * Explain how the dashboard was designed to communicate complex data insights to different audiences. 
 
+## Wireframe
+
+## Tableau Dashboard
+
 ## Unfixed Bugs
 * We do not have any unfixed bugs.
 
@@ -108,6 +112,6 @@ Some issues we have encountered:
 ### Contributors:
 - Mahabir Bhakerd - Project Manager / Data Architect / Analyst
 - Stephen Beese - Project Manager / Data Architect / Analyst
-- Adrian S - Data Architect / Analyst
+- Adrian Sorbala - Data Architect / Analyst
 - Rana Tahon - Data Architect / Analyst
 - Tanzila Chand - Data Architect / Analyst
