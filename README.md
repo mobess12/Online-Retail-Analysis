@@ -7,14 +7,15 @@
 
 The dataset contains transactional data from a UK-based online retail store. It includes information about customers, products, and transactions, with the following key features:
 
-- InvoiceNo: Unique identifier for each transaction
-- StockCode: Unique identifier for each product
-- Description: Text description of the product
-- Quantity: Number of units sold
-- InvoiceDate: Date and time of the transaction
-- UnitPrice: Price per unit of the product
-- CustomerID: Unique identifier for each customer
-- Country: Country of the customer
+- **InvoiceNo**: Unique identifier for each transaction
+- **StockCode**: Unique identifier for each product
+- **Description**: Text description of the product
+- **Quantity**: Number of units sold
+- **InvoiceDate**: Date and time of the transaction
+- **UnitPrice**: Price per unit of the product
+- **CustomerID**: Unique identifier for each customer
+- **Country**: Country of the customer
+
 
 ## Business Requirements
 As this is an online retail analysis project, the business requirements may include:
