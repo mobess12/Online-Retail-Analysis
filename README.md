@@ -1,6 +1,6 @@
 # Online Retail Analysis
 
-**Online Retail Analysis** is a tool designed to inform business decisions through data analysis and visualisation. This tool is built using Python, Pandas, Plotly, Seaborn, Matplotlib, and Tableau. This tool reads from a raw CSV file, processes the data and shows visualisation insights in a jupter notebook and a Tableau dashboard.
+**Online Retail Analysis** is a tool designed to inform business decisions through data analysis and visualisation. This tool is built using Python, Pandas, Plotly, Seaborn, Matplotlib, and Tableau. This tool reads from a raw CSV file, processes the data and shows visualisation insights in a Jupyter Notebook and a Tableau dashboard.
 
 ## Table of Contents
 <details>
@@ -61,13 +61,13 @@ As this is an online retail analysis project, the business requirements are:
 
 * **Hypothesis 1** - The most popular products generate higher revenue during a particular season in the year, highlighting the importance of aligning inventory and marketing strategies with seasonal buying behaviour. 
 
-* **Hypothesis 2** - The drive for the majority of the revenue comes from the contributions made by the top 10% of customer.
+* **Hypothesis 2** - The drive for the majority of the revenue comes from the contributions made by the top 10% of customers.
 
-* **Hypothesis 3** - Quarter 4 of the year (Oct-Dec) has an increase in sales due to the seasonal holidays
+* **Hypothesis 3** - Q4 of the year (Oct-Dec) has an increase in sales due to the seasonal holidays
 
-* **Hypothesis 4** - customer who purchase more frequently tend to spend more per transaction 
+* **Hypothesis 4** - Customers who purchase more frequently tend to spend more per transaction 
 
-Validation for these hypothses listed above will be demonstrated using various visualiations and commentary within the data visualisations jupyter notebook. This will help the team to understand whether they are true or false. 
+Validation for these hypotheses listed above will be demonstrated using various visualisations and commentary within the data visualisations Jupyter Notebook. This will help the team to understand whether they are true or false. 
 
 ## Project Plan
 1. **Data Collection** 
@@ -97,11 +97,11 @@ It is common in the retail industry to look at sales, seasonality, customers and
 
 ## Analysis Techniques Used
 - Researching and using the standard key metrics for an online retail industry, this helped reach my objectives and gain a better understanding on the dataset.
-- We structured the analysis around what a common retail industry would want to look at and gathered some idea's surrounding the generalised view of the industry. This gave our team a base on structure to go by, sales, products, customers etc.
-- Online resources such as youtube and google was used for code understanding and helped with code building
+- We structured the analysis around what a common retail industry would want to look at and gathered some ideas surrounding the generalised view of the industry. This gave our team a base on structure to go by, sales, products, customers etc.
+- Online resources such as YouTube and Google were used for code understanding and helped with code building
 
 ## Ethical Considerations
-* The dataset came from Kaggle and do not have any legal or societal issues. There was no personal data within the dataset which could expose or identify any thing perosnal to a particular individual.
+* The dataset came from Kaggle and do not have any legal or societal issues. There was no personal data within the dataset which could expose or identify anything personal to a particular individual.
 
 ## Dashboard Design
 * The dashboard was designed to be visually appealing, with a consistent colour scheme and layout that enhances the user experience. We kept the design simple and clean, avoiding clutter and unnecessary elements that could distract from the data insights.
@@ -135,8 +135,8 @@ Some issues we have encountered:
 * We would often have to drop our changes and ensure we have a backup so we can make the changes later.
 
 ## Development Roadmap
-* With the teams skillset and expertise, the team did not encounter any major issues. We were all on call for support where needed with a solid project plan in place. A lot of the issues people may have come across in the first project have been rectified and newly learnt, therefore referring back to experience in these situations was the solution.
-* New skills or tools the team plan to learn is understanding VSCode more, dashboard tool and python. This would aid in more hands on experience to build more understanding and confidence in completing projects.
+* With the team's skillset and expertise, the team did not encounter any major issues. We were all on call for support where needed with a solid project plan in place. A lot of the issues people may have come across in the first project have been rectified and newly learnt, therefore referring back to experience in these situations was the solution.
+* The team plans to learn more about VSCode, dashboarding tools and Python. This would aid in more hands on experience to build more understanding and confidence in completing projects.
 
 ## Main Data Analysis Libraries
 * Pandas
