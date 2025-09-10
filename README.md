@@ -83,14 +83,19 @@ The business requirements would be met through understanding the data after proc
 * All charts have clear titles, labels, and legends to ensure that users can easily understand the information being presented. The interactive elements, such as filters and tooltips, allow users to explore the data in more detail and gain deeper insights.
 
 ## Wireframe
-* The dashboard wireframe was created in Figma to outline the layout for our Online Retail Analysis project dashboard. It includes key components, such as summary cards and charts. This wireframe will serve as a guide while designing the interactive dashboard in Tableau. Preview of the wireframe layout can be found in the image folder. [Wireframe](Images/Wireframe.png)
+* The dashboard wireframe was created in Figma to outline the layout for our Online Retail Analysis project dashboard. It includes key components, such as summary cards and charts. This wireframe will serve as a guide while designing the interactive dashboard in Tableau.
+
+![Wireframe](Images/Wireframe.png)
 
 
 ## Tableau Dashboard
-* link to interactive dashboard - https://public.tableau.com/views/Chart_1_17574241391950/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+* You can find our dashboard [here](https://public.tableau.com/views/Chart_1_17574241391950/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<!-- 
+link to interactive dashboard - https://public.tableau.com/views/Chart_1_17574241391950/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link -->
 
 ## Kanban Board
-*
+* You can find screenshots of our Kanban board [here](KANBAN.md)
+* You can view our project board [here](https://github.com/users/stephenbeese/projects/10/views/2)
 
 ## Unfixed Bugs
 * We do not have any unfixed bugs.
