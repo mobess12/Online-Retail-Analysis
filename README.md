@@ -87,6 +87,7 @@ The business requirements would be met through understanding the data after proc
 
 
 ## Tableau Dashboard
+* link to interactive dashboard - https://public.tableau.com/views/Chart_1_17574241391950/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Kanban Board
 *
